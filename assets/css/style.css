@@ -301,6 +301,13 @@ hr {
     width: 35%;
 }
 
+/* Location styles */
+
+#location iframe {
+    width: 100%;
+    height: auto;
+}
+
 /* Form Styles */
 
 #form {
