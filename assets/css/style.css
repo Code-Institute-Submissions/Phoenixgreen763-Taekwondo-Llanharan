@@ -40,3 +40,43 @@ h3 {
     letter-spacing: 4px;
     color: black;
 }
+
+/* Logo and Menu Styles */
+#logo {
+    font-size: 300%;
+}
+
+#menu {
+    color: black;
+    font-family: Oswald;
+    font-size: 125%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#logo,
+#menu {
+    text-decoration: none;
+    text-align: center;
+    line-height: 75px;
+}
+
+#menu li {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10px;
+    text-align: left;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #777777;
+}
+
+.active {
+    border-bottom: 1px solid #777777;
+}
