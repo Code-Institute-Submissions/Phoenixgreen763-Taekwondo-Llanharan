@@ -361,3 +361,12 @@ footer .social-links .social-link {
 .fa-dumbbell {
     color: black;
 }
+
+/* Contact Styles */
+.contact {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
