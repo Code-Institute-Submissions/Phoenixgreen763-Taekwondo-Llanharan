@@ -352,6 +352,42 @@ ol li::before {
     margin-right: 0.5em;
 }
 
+/* Class Times styles */
+
+#times {
+    line-height: 75px;
+    margin-top: 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 280%;
+    /**/
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 1%;
+}
+
+th {
+    background-color: lightgray;
+    color: black;
+    font-size: 200%;
+    padding-right: 4%;
+    text-decoration: underline black solid 2px;
+}
+
+td {
+    padding-right: 4%;
+}
 
 /* Location styles */
 
