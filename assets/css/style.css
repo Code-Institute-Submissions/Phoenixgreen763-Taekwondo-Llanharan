@@ -258,3 +258,83 @@ hr {
 .fa-dumbbell {
     color: black;
 }
+
+/* Taekwondo tenants and Circle Styles */
+#taekwondo-tenants {
+    margin-top: 1.5%;
+    margin-bottom: 2.5%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 280%;
+}
+
+#circle-container-tenants {
+    width: 300px;
+    height: 300px;
+    padding: 5%;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding-bottom: 5%;
+
+}
+
+#circle-cover-bp {
+    background: url('/assets/images/image-asset.jpeg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+    background-size: cover;
+}
+
+/* Footer Styles */
+
+footer {
+    background-color: black;
+    margin-top: 2.5%;
+}
+
+footer .footer-bottom {
+    width: 100%;
+    background-color: black;
+}
+
+footer .social-links {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+footer .social-links .fa-solid.fa-circle.fa-stack-1x::before {
+    border-radius: 50%;
+}
+
+footer .social-links .social-link {
+    text-align: center;
+}
+
+#footer-2 {
+    background-color: black;
+    margin-top: 0;
+}
+
+#footer-2 .footer-bottom {
+    width: 100%;
+    background-color: black;
+}
+
+#footer-2 .social-links {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+#footer-2 .social-links .fa-solid.fa-circle.fa-stack-1x::before {
+    border-radius: 50%;
+}
+
+#footer-2 .social-links .social-link {
+    text-align: center;
+}
