@@ -237,3 +237,24 @@ hr {
 #center-tenant {
     margin: 0 auto;
 }
+
+/* Left and Right Tenant Heading Styles */
+
+.left-tenants-heading,
+.right-tenants-heading {
+    width: 50%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 5%;
+}
+
+.right-tenants-heading h3 {
+    text-align: right;
+}
+
+.fa-heartbeat,
+.fa-fly,
+.fa-globe,
+.fa-dumbbell {
+    color: black;
+}
