@@ -207,3 +207,33 @@ hr {
     border-radius: 50%;
     background-size: cover;
 }
+
+/* Tenants Section Styles */
+#tenants {
+    margin-bottom: 0;
+    height: 60%;
+}
+
+#left-tenants,
+#right-tenants,
+#center-tenant {
+    width: 33%;
+}
+
+#left-tenants,
+#right-tenants {
+    padding-top: 2.5%;
+    float: left;
+}
+
+#left-tenants {
+    padding-left: 15%;
+}
+
+#right-tenants {
+    float: right;
+}
+
+#center-tenant {
+    margin: 0 auto;
+}
