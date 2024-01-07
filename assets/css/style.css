@@ -557,7 +557,7 @@ footer .social-links .social-link {
 
 @media screen and (max-width: 1396px) {
 
-    #club-ethos {
+    #benefits {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -570,8 +570,8 @@ footer .social-links .social-link {
         margin-top: 0;
     }
 
-    #left-about,
-    #right-about {
+    #left-benefits,
+    #right-benefits {
         width: 100%;
         float: left;
         padding: 0;
@@ -595,7 +595,7 @@ footer .social-links .social-link {
         padding: 0;
     }
 
-    #center-about,
+    #center-benefits,
     #center-tenant {
         clear: both;
         width: 100%;
@@ -649,7 +649,7 @@ footer .social-links .social-link {
         left: 0px;
     }
 
-    #club-ethos {
+    #benefits {
         width: 90%;
         height: 1050px;
         margin: 0 auto;
@@ -659,19 +659,19 @@ footer .social-links .social-link {
         margin-bottom: 5%;
     }
 
-    .left-about-heading,
-    .right-about-heading {
+    .left-benefits-heading,
+    .right-benefits-heading {
         width: inherit;
     }
 
-    .left-about-heading h3,
-    .right-about-heading h3 {
+    .left-benefits-heading h3,
+    .right-benefits-heading h3 {
         width: 100%;
         text-align: center;
     }
 
-    .left-about-heading p,
-    .right-about-heading p {
+    .left-benefits-heading p,
+    .right-benefits-heading p {
         text-align: center;
         padding: 0 20px 0 20px;
     }
@@ -718,7 +718,7 @@ footer .social-links .social-link {
 
 @media screen and (max-width: 767px) {
 
-    #club-ethos {
+    #benefits {
         padding-bottom: 0;
     }
 
