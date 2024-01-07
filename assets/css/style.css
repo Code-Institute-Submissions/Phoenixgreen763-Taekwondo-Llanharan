@@ -623,3 +623,95 @@ footer .social-links .social-link {
         display: none;
     }
 }
+
+@media screen and (max-width: 943px) {
+
+    #video {
+        width: 100%;
+        height: auto;
+    }
+
+    #menu {
+        clear: left;
+        float: none;
+        margin-left: 0;
+        margin-bottom: 20px;
+        line-height: 25px;
+        text-align: center;
+    }
+
+    #menu li {
+        display: inline-block;
+        margin: 10px 0;
+    }
+
+    #cover-text {
+        left: 0px;
+    }
+
+    #club-ethos {
+        width: 90%;
+        height: 1050px;
+        margin: 0 auto;
+    }
+
+    #taekwondo-benefits {
+        margin-bottom: 5%;
+    }
+
+    .left-about-heading,
+    .right-about-heading {
+        width: inherit;
+    }
+
+    .left-about-heading h3,
+    .right-about-heading h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p,
+    .right-about-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+
+    #tenants {
+        width: 90%;
+        height: 1025px;
+        margin: 0 auto;
+        padding-top: 0%;
+        padding-bottom: 0%;
+    }
+
+    #taekwondo-tenants {
+        margin-bottom: 5%;
+    }
+
+    .left-tenants-heading,
+    .right-tenants-heading {
+        width: inherit;
+    }
+
+    .left-tenants-heading h3,
+    .right-tenants-heading h3 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-tenants-heading p,
+    .right-tenants-heading p {
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+
+    .image-container img {
+        height: auto;
+        width: 60%;
+    }
+
+    .about-text {
+        padding-top: 2.5%;
+        padding-bottom: 1.5%;
+    }
+}
