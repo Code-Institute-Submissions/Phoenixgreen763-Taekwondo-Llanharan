@@ -715,3 +715,31 @@ footer .social-links .social-link {
         padding-bottom: 1.5%;
     }
 }
+
+@media screen and (max-width: 767px) {
+
+    #club-ethos {
+        padding-bottom: 0;
+    }
+
+    .footer-top {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .social-links {
+        display: inline-block;
+        margin-top: 10px;
+        grid-gap: 10px;
+        text-align: center;
+    }
+
+    .social-link {
+        display: inline-block;
+    }
+
+    .contact {
+        margin-top: 10px;
+        text-align: center;
+    }
+}
