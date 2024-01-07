@@ -289,6 +289,18 @@ hr {
     background-size: cover;
 }
 
+/* Image Container Styles*/
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    height: auto;
+    width: 35%;
+}
+
 /* Footer Styles */
 
 footer {
