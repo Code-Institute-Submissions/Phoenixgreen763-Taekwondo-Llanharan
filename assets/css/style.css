@@ -338,3 +338,26 @@ footer .social-links .social-link {
 #footer-2 .social-links .social-link {
     text-align: center;
 }
+
+/* Social Links Styles */
+
+.social-links {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+.social-links .fa-solid.fa-circle.fa-stack-1x {
+    filter: var(--filter-drop-shadow);
+}
+
+.social-links .fa-solid.fa-circle.fa-stack-1x::before {
+    border-radius: 50%;
+}
+
+.fa-heartbeat,
+.fa-fly,
+.fa-globe,
+.fa-dumbbell {
+    color: black;
+}
