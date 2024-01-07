@@ -301,6 +301,58 @@ hr {
     width: 35%;
 }
 
+/* About the club styles */
+
+#about {
+    line-height: 75px;
+    margin-top: 2.5%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    /**/
+    font-size: 280%;
+}
+
+.about-the-club {
+    text-align: center;
+    padding-top: .25%;
+    padding-bottom: 1.5%;
+}
+
+.about-text {
+    color: black;
+    font-weight: 100;
+    font-family: Oswald;
+    font-size: 140%;
+    margin-top: 1.25%;
+    margin-bottom: .5%;
+    text-transform: uppercase;
+}
+
+ol {
+    padding-top: 1%;
+    list-style-type: none; 
+    text-align: center; 
+    width: 50%; 
+    margin: auto;
+    text-align: left;
+    font-size: 140%;
+}
+
+ol li {
+    margin-bottom: 5px; 
+    text-align: center; 
+    margin-bottom: 10px;
+}
+
+ol li::before {
+    content: '\2022'; 
+    color: black; 
+    font-size: 1em;
+    margin-right: 0.5em;
+}
+
+
 /* Location styles */
 
 #location iframe {
