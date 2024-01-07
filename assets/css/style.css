@@ -126,26 +126,53 @@ h3 {
     height: 60%;
 }
 
-#left-about,
-#right-about,
-#center-about {
+#left-benefits,
+#right-benefits,
+#center-benefits {
     width: 33%;
 }
 
-#left-about,
-#right-about {
+#left-benefits,
+#right-benefits {
     padding-top: 2.5%;
     float: left;
 }
 
-#left-about {
+#left-benefits {
     padding-left: 15%;
 }
 
-#right-about {
+#right-benefits {
     float: right;
 }
 
-#center-about {
+#center-benefits {
     margin: 0 auto;
+}
+
+/* Horizontal Line Styles */
+hr {
+    border-top: 1px solid #777777;
+    width: 100%;
+    margin: 0.5% 0;
+}
+
+/* Left and Right benefits Heading Styles */
+.left-benefits-heading,
+.right-benefits-heading {
+    width: 50%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 5%;
+}
+
+.right-benefits-heading h3 {
+    text-align: right;
+}
+
+.fa-heartbeat,
+.fa-fly,
+.fa-globe,
+.fa-dumbbell {
+    color: black;
 }
