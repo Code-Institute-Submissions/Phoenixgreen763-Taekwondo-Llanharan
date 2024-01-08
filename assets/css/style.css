@@ -718,6 +718,18 @@ footer .social-links .social-link {
 
 @media screen and (max-width: 767px) {
 
+    #logo {
+        font-size: 175%;
+    }
+
+    #taekwondo-benefits {
+        font-size: 175%;
+    }
+
+    #taekwondo-tenants {
+        font-size: 175%;
+    }
+
     #benefits {
         padding-bottom: 0;
     }
