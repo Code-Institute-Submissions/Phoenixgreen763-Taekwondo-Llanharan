@@ -328,11 +328,13 @@ hr {
     color: black;
     font-weight: 100;
     font-family: Oswald;
-    font-size: 140%;
+    font-size: 200%;
     margin-top: 1.25%;
     margin-bottom: .5%;
     text-transform: uppercase;
     font-weight: 600;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 ol {
@@ -342,7 +344,7 @@ ol {
     width: 50%; 
     margin: auto;
     text-align: left;
-    font-size: 140%;
+    font-size: 200%;
     color: black;
     font-weight: 600;
 }
@@ -624,10 +626,13 @@ footer .social-links .social-link {
 
     .about-text {
         font-size: 120%;
+        margin-right: 0%;
+    margin-left: 0%;
     }
 
     ol {
         font-size: 100%;
+
     }
 
     footer {
