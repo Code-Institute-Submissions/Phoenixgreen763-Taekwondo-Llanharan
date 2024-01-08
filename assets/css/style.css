@@ -186,7 +186,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 #circle-container {
@@ -268,7 +268,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 #circle-container-tenants {
@@ -312,7 +312,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .about-the-club {
@@ -364,7 +364,7 @@ ol li::before {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 table {
@@ -426,7 +426,7 @@ td {
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .form-container label {
