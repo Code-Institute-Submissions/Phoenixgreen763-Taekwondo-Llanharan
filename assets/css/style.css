@@ -43,7 +43,9 @@ h3 {
 
 /* Logo and Menu Styles */
 #logo {
-    font-size: 350%;
+    font-size: 400%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 #menu {
@@ -186,7 +188,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 #circle-container {
@@ -268,7 +270,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 #circle-container-tenants {
@@ -312,7 +314,7 @@ hr {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .about-the-club {
@@ -329,6 +331,7 @@ hr {
     margin-top: 1.25%;
     margin-bottom: .5%;
     text-transform: uppercase;
+    font-weight: 600;
 }
 
 ol {
@@ -340,6 +343,7 @@ ol {
     text-align: left;
     font-size: 140%;
     color: black;
+    font-weight: 600;
 }
 
 ol li {
@@ -364,7 +368,7 @@ ol li::before {
     border-bottom: 1px solid black;
     text-align: center;
     font-size: 250%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 table {
@@ -738,15 +742,17 @@ footer .social-links .social-link {
 @media screen and (max-width: 767px) {
 
     #logo {
-        font-size: 250%;
+        font-size: 300%;
     }
 
     #taekwondo-benefits {
         font-size: 175%;
+        font-weight: 600;
     }
 
     #taekwondo-tenants {
         font-size: 175%;
+        font-weight: 600;
     }
 
     #benefits {
@@ -755,18 +761,30 @@ footer .social-links .social-link {
 
     #about {
         font-size: 175%;
+        font-weight: 600;
+    }
+
+    .about-text {
+        font-weight: 600
+    }
+
+    ol {
+        font-weight: 600;
     }
 
     #times {
         font-size: 175%;
+        font-weight: 600;
     }
 
     th {
         font-size: 175%;
+        font-weight: 600;
     }
 
     .form-container h2 {
         font-size: 175%;
+        font-weight: 600;
     }
 
     .footer-top {
