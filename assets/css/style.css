@@ -328,8 +328,8 @@ hr {
     color: black;
     font-weight: 100;
     font-family: Oswald;
-    font-size: 200%;
-    margin-top: 1.25%;
+    font-size: 150%;
+    margin-top: 2.5%;
     margin-bottom: .5%;
     text-transform: uppercase;
     font-weight: 600;
@@ -344,9 +344,10 @@ ol {
     width: 50%; 
     margin: auto;
     text-align: left;
-    font-size: 200%;
+    font-size: 150%;
     color: black;
     font-weight: 600;
+    margin-bottom: 2.5%;
 }
 
 ol li {
