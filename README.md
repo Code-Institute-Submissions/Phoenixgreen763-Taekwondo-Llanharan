@@ -45,8 +45,10 @@ View the live website here -
     * There was an issue with the image being smaller than desired, when being viewed on desktops.
 
 * About The Club
-    *
-    
+    * The styling for the heading is kept consistent with the previous home page. Continuing the same style throughout the website.
+    * This section contains a paragraph introducing the club itself. This allows the user to feel comfortable and familiar when engaging.
+    * This section includes a list of goals and the philosophy of the club. This lets the user feel safe and accomplished when interacting with the club.
+
 
 #### [Taekwondo Llanharan - Contact (Page 3)]
 
