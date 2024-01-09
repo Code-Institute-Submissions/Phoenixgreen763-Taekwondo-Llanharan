@@ -39,9 +39,14 @@ View the live website here -
 
 #### [Taekwondo Llanharan - About (Page 2)]
 
-* About Page Image 
+* About Image 
     * This displays an image of the welsh flag. This represents to the user that the club is of welsh origin and will compete as such.
-    * 
+    * On smaller screen sizes, the image aligns with the margins of the headings.
+    * There was an issue with the image being smaller than desired, when being viewed on desktops.
+
+* About The Club
+    *
+    
 
 #### [Taekwondo Llanharan - Contact (Page 3)]
 
