@@ -48,6 +48,11 @@ View the live website here -
     * The styling for the heading is kept consistent with the previous home page. Continuing the same style throughout the website.
     * This section contains a paragraph introducing the club itself. This allows the user to feel comfortable and familiar when engaging.
     * This section includes a list of goals and the philosophy of the club. This lets the user feel safe and accomplished when interacting with the club.
+    * The list and text both align in the center of the page, to give a clear and concise view of the information.
+
+* Class Times 
+    * This section includes a table to give all users up to date information. This includes the class days, times and ages of students for each. This gives the user flexibility and ease of use to plan their training.
+    * 
 
 
 #### [Taekwondo Llanharan - Contact (Page 3)]
