@@ -88,7 +88,7 @@ View the live website here -
 
 * WS3 CSS Testing Validator
     * CSS Results
-    ![CSS Validated Results] 
+    ![CSS Validated Results]
 * WS3 HTML Testing Validator
     * [Home (page 1) Results]
     * [About (page 2) Results]
