@@ -965,3 +965,13 @@ footer .social-links .social-link {
         text-align: center;
     }
 }
+
+@media screen and (max-width: 380px) {
+    #benefits {
+        height: 1000px;
+    }
+
+    #tenants {
+        height: 1000px;
+    }
+}
