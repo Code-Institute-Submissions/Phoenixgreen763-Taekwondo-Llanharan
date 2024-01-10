@@ -18,6 +18,8 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * The navigation bar is established on each page of the website. This has been maintained to allow consitency and ease of use for the user.
     * This section includes the logo of the page, it gives easy readability and understanding to the user. They are immediately aware of what content will be included on the page, but also know the location of the club to avoid any confusion.
 
+![Navbar](/assets/images/Screenshot%202024-01-10%20210421.png)
+
 * The Homepage Video
     * The home page video is featured across all multi-media screen sizes. This instantly gives users access to quick, and essential knowledge of the history of the sport. This was essential to include, so users can gain an understanding of taekwondo.
     * Given the fact that the video was embedded from youtube, via a third party website. It made it increasingly difficult to maintain a consistent aspect ratio, which caused some visibility issues. In future, it would be best to use a different method to ensure consitent, and readable viewership for users.
