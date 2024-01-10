@@ -41,7 +41,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * The footer includes 4 social links, all of which redirect to seperate media outlets. It also includes the sites copyright. The footer gives users the ability to view other platforms where the club also has a presence.
     * All social media icons redirect to a seperate page for the user. This allows the user to navigate back to the website with ease.
 
-#### [Taekwondo-Llanharan-About-(Page2)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
+#### ![Taekwondo Llanharan - About (Page 2)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
 
 * About Image 
     * This displays an image of the welsh flag. This represents to the user that the club is of welsh origin and will compete as such.
