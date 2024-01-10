@@ -795,6 +795,10 @@ footer .social-links .social-link {
         padding-bottom: 0;
     }
 
+    #tenants {
+        height: 1000px;
+    }
+
     #about {
         font-size: 175%;
         font-weight: 600;
