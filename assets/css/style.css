@@ -910,6 +910,11 @@ footer .social-links .social-link {
         font-size: 100%;
     }
 
+    #circle-container {
+        height: 200px;
+        width: 200px;
+    }
+
     #about {
         font-size: 100%;
     }
