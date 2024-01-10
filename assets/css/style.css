@@ -583,10 +583,11 @@ footer .social-links .social-link {
 
     #left-benefits,
     #right-benefits {
-        width: 125%;
+        width: 120%;
         float: left;
         padding: 0;
         padding-left: 20%;
+        text-align: center;
     }
 
     #taekwondo-tenants {
@@ -602,10 +603,11 @@ footer .social-links .social-link {
 
     #left-tenants,
     #right-tenants {
-        width: 125%;
+        width: 120%;
         float: left;
         padding: 0;
         padding-left: 20%;
+        text-align: center;
     }
 
     #center-benefits,
@@ -614,6 +616,14 @@ footer .social-links .social-link {
         width: 100%;
         float: left;
         padding: 0;
+    }
+
+    .right-benefits-heading h3 {
+        text-align: center;
+    }
+
+    .right-tenants-heading h3 {
+        text-align: center;
     }
 
     #about-club {
