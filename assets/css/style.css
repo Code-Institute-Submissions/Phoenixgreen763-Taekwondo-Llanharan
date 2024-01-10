@@ -910,7 +910,13 @@ footer .social-links .social-link {
         font-size: 100%;
     }
 
-   
+    #benefits {
+        height: 900px;
+    }
+
+    #tenants {
+        height: 900px;
+    }
 
     #circle-container {
         height: 280px;
