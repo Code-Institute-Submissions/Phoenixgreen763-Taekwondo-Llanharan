@@ -6,7 +6,7 @@ Taekwondo Llanharan is a website focused on encouranging novices, or experts ali
 
 View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanharan/ 
 
-![UX Mockup] ()
+![UX Mockup] (https://github.com/Phoenixgreen763/Taekwondo-Llanharan/blob/main/assets/images/smartmockups_lr81ch5s.png)
 
 ## Features
 
@@ -41,7 +41,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * The footer includes 4 social links, all of which redirect to seperate media outlets. It also includes the sites copyright. The footer gives users the ability to view other platforms where the club also has a presence.
     * All social media icons redirect to a seperate page for the user. This allows the user to navigate back to the website with ease.
 
-#### ![Taekwondo Llanharan - About (Page 2)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
+#### [Taekwondo Llanharan - About (Page 2)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
 
 * About Image 
     * This displays an image of the welsh flag. This represents to the user that the club is of welsh origin and will compete as such.
@@ -88,7 +88,6 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
 
 * WS3 CSS Testing Validator
     * CSS Results
-    ![CSS Validated Results] 
 * WS3 HTML Testing Validator
     * [Home (page 1) Results] (https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Findex.html)
     * [About (page 2) Results]
