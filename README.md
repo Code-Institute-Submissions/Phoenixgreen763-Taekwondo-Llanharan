@@ -110,6 +110,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
 
 * Colour Scheme
     * The colour scheme I selected was a combination of red, black, and white. This was done to represent the 3 most important colours throughout taekwondo, and maintain a visually appealing presentation.
+    ![Taekwondo-colours](/assets/images/Screenshot%202024-01-10%20213535.png)
 
 * Typography
     * Google Fonts was imported into css to style text. The font "Oswald" was used and kept consistent throughout the entirety of the site.
