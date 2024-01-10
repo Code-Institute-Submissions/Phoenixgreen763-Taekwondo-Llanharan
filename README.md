@@ -61,6 +61,11 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * This table gives the user precise information, about all classes. This allows all types of users to see when they will be able to attend classes, with ease.
     * This section also adjusts to add margins, when viewed on other screen sizes. This is done to keep it inline with the other content, also seen on the page.
     * Borders were added to the table to keep a good level of readability, even on smaller screen sizes.
+* Location 
+    * This page includes an embedded google maps bar at the bottom.
+    * This blends in, almost seamlessly with the footer to give a very nice visual appeal to the user.
+    * This allows the user to have ease of access navigating their way to the club.
+    ![Embedded-Location](/assets/images/Screenshot%202024-01-10%20213210.png)
 
 
 #### [Taekwondo Llanharan - Contact (Page 3)](https://phoenixgreen763.github.io/Taekwondo-Llanharan/contact.html)
