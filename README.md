@@ -6,6 +6,8 @@ Taekwondo Llanharan is a website focused on encouranging novices, or experts ali
 
 View the live website here - 
 
+![UX Mockup]
+
 ## Features
 
 ### Existing Features
