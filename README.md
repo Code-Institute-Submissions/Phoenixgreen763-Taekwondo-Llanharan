@@ -156,7 +156,7 @@ The live link can be found here - https://phoenixgreen763.github.io/Taekwondo-Ll
     * All content was written by the developer
 
 * Imagery
-    * All images came from google
+    * All images came from shuttershock.
 
 * Icons
     * All icons were sourced from fontawesome. They have been used on the home page to give a visually appealing connection to the headings.
