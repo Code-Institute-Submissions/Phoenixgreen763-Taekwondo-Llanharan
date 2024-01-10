@@ -966,12 +966,12 @@ footer .social-links .social-link {
     }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 370px) {
     #benefits {
         height: 1000px;
     }
 
     #tenants {
-        height: 1000px;
+        height: 950px;
     }
 }
