@@ -12,7 +12,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
 
 ### Existing Features
 
-#### [Taekwondo Llanharan - Home (Page 1)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/index.html)
+#### [Taekwondo Llanharan - Home (Page 1)](https://phoenixgreen763.github.io/Taekwondo-Llanharan/index.html)
 
 * Navigation Bar
     * The navigation bar is established on each page of the website. This has been maintained to allow consitency and ease of use for the user.
@@ -43,7 +43,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * The footer includes 4 social links, all of which redirect to seperate media outlets. It also includes the sites copyright. The footer gives users the ability to view other platforms where the club also has a presence.
     * All social media icons redirect to a seperate page for the user. This allows the user to navigate back to the website with ease.
 
-#### [Taekwondo Llanharan - About (Page 2)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
+#### [Taekwondo Llanharan - About (Page 2)](https://phoenixgreen763.github.io/Taekwondo-Llanharan/about.html)
 
 * About Image 
     * This displays an image of the welsh flag. This represents to the user that the club is of welsh origin and will compete as such.
@@ -63,7 +63,7 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * Borders were added to the table to keep a good level of readability, even on smaller screen sizes.
 
 
-#### [Taekwondo Llanharan - Contact (Page 3)] (https://phoenixgreen763.github.io/Taekwondo-Llanharan/contact.html)
+#### [Taekwondo Llanharan - Contact (Page 3)](https://phoenixgreen763.github.io/Taekwondo-Llanharan/contact.html)
 
 * Form 
     * On the contact page, the only content available is a form. This is done to avoid complications for the user. Keeping the page simple makes it easy for the user to navigate, and fill out their information.
@@ -92,9 +92,9 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * CSS Results
     ![CSS-validator-results](/assets/images/Screenshot%202024-01-10%20165707.png)
 * WS3 HTML Testing Validator
-    * [Home (page 1) Results] (https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Findex.html)
-    * [About (page 2) Results]
-    * [Contact (page 2) Results] 
+    * [Home (page 1) Results](https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Findex.html)
+    * [About (page 2) Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Fabout.html)
+    * [Contact (page 2) Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Fcontact.html)
 
 ## All Known Bugs
 
