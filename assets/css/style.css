@@ -966,7 +966,7 @@ footer .social-links .social-link {
     }
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 380px) {
     #benefits {
         height: 1000px;
     }
