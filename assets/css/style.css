@@ -899,31 +899,31 @@ footer .social-links .social-link {
 @media screen and (max-width: 400px) {
     
     #logo {
-        font-size: 200%;
+        font-size: 150%;
     }
 
     #taekwondo-benefits {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #taekwondo-tenants {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #about {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     #times {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     th {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     .form-container h2 {
-        font-size: 150%;
+        font-size: 100%;
     }
 
     .footer-top {
