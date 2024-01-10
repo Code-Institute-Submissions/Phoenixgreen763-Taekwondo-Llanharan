@@ -910,14 +910,23 @@ footer .social-links .social-link {
         font-size: 100%;
     }
 
+    #benefits {
+        height: 1000px;
+    }
+
+    #tenants {
+        height: 950px;
+    }
+}
+
     #circle-container {
-        height: 280px;
-        width: 280px;
+        height: 250px;
+        width: 250px;
     }
 
     #circle-container-tenants {
-        height: 280px;
-        width: 280px;
+        height: 250px;
+        width: 250px;
     }
 
     #about {
@@ -960,7 +969,7 @@ footer .social-links .social-link {
 
 @media screen and (max-width: 380px) {
     #benefits {
-        height: 1000px;
+        height: 1050px;
     }
 
     #tenants {
