@@ -79,4 +79,30 @@ View the live website here -
 * This website has been viewed and also tested on Google Chrome, Safari, and Opera GX.
 * Family members were asked to test and navigate the website. This was to test user experience, and find potential bugs.
 
-##
+## Design
+* Colour Scheme
+    * The colour scheme I selected was a combination of red, black, and white. This was done to represent the 3 most important colours throughout taekwondo, and maintain a visually appealing presentation.
+
+* Typography
+    * Google Fonts was imported into css to style text. The font "Oswald" was used and kept consistent throughout the entirety of the site.
+
+## Technologies Used
+* HTML5
+* CSS3
+
+## Credits
+* Code
+    * W3Schools for Flex & table templates
+    * 
+
+* Content
+    * All content was written by the developer
+
+* Imagery
+    * All images came from 
+
+* Icons
+    * 
+    
+* Acknowledgements
+    * My Mentor Rahul for advice when planning, and tips for area of improvement.
