@@ -103,8 +103,8 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
 
 ## All Known Bugs
 
-* The home page embedded youtube video, does not currently maintain the same aspect ration, on all smaller screen sizes below 563px.
-* The cirlce images on the home page, have slightly excessive bottom margins, on certain screen sizes.
+* The home page embedded youtube video does not currently maintain the same aspect ration, on all smaller screen sizes below 563px.
+* The cirlce images on the home page have slightly excessive bottom margins, on certain screen sizes.
 
 ## Design
 
