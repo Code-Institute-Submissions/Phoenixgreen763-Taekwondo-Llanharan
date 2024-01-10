@@ -113,6 +113,10 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
     * [About (page 2) Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Fabout.html)
     * [Contact (page 2) Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fphoenixgreen763.github.io%2FTaekwondo-Llanharan%2Fcontact.html)
 
+* Lighthouse
+    * Lighthouse was used to test the efficiency of the site, achieving a score of 94.
+    ![Lighthouse-score](/assets/images/Screenshot%202024-01-10%20222645.png)
+
 ## All Known Bugs
 
 * The home page embedded youtube video does not currently maintain the same aspect ration, on all smaller screen sizes below 563px.
