@@ -60,7 +60,7 @@ View the live website here -
 #### [Taekwondo Llanharan - Contact (Page 3)]
 
 * Form 
-    * On the contact page, the only content available is a form. This is done to avoid complications for the user. Keeping the page simple makes it easy for the user to navigate and fill out their information.
+    * On the contact page, the only content available is a form. This is done to avoid complications for the user. Keeping the page simple makes it easy for the user to navigate, and fill out their information.
     * The form is available so the user can fill out their information, and potentially send any queries they have to the club if desired.
     * The form contains 4 fields, an input for you name, email, age, and also any queries.
     * The input for the users name, and email is a requirement to submit the form.
