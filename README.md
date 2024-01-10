@@ -69,8 +69,12 @@ View the live website here -
 
 ### Features to Implement
 
+* Contact information within the footer
+    * Having a contact inside the footer, allows for ease of access for users on all pages.
+* 
 
 ## Testing
+
 * The website was viewed on a number of devices, and screen sizes. These include desktop, macbook, iphone 12, Ipad, and Samsung pixel 12.
 * This website has been viewed and also tested on Google Chrome, Safari, and Opera GX.
 * Family members were asked to test and navigate the website. This was to test user experience, and find potential bugs.
