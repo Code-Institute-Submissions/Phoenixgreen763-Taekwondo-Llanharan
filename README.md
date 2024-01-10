@@ -113,8 +113,8 @@ The live link can be found here -
 ## Credits
 
 * Code
-    * W3Schools for Flex & table templates
-    * 
+    * W3Schools for table templates.
+    * https://youtubeembedcode.com/en/ for embedded video.
 
 * Content
     * All content was written by the developer
