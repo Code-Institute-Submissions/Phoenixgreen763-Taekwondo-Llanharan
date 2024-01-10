@@ -86,6 +86,15 @@ View the live website here -
 * Typography
     * Google Fonts was imported into css to style text. The font "Oswald" was used and kept consistent throughout the entirety of the site.
 
+## Deployment Of The Website
+* The website was deployed to GitHub. The steps to deploy are shown, as follows:
+    * In the GitHub repository, navigate to the Settings tab
+    * Scroll down to GitHub pages and click "Check it out here!"
+    * Under "Source" ensure you select "main"
+    * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon to display and indicate the successful deployment.
+
+The live link can be found here -
+
 ## Technologies Used
 * HTML5
 * CSS3
