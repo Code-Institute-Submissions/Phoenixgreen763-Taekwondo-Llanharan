@@ -979,3 +979,22 @@ footer .social-links .social-link {
         height: 950px;
     }
 }
+
+@media screen and (max-width: 330px) {
+    #benefits {
+        height: 1050px;
+    }
+
+    #tenants {
+        height: 950px;
+    }
+    #circle-container {
+        height: 200px;
+        width: 200px;
+    }
+
+    #circle-container-tenants {
+        height: 200px;
+        width: 200px;
+    }
+}
