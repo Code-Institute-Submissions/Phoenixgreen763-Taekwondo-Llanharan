@@ -375,6 +375,7 @@ ol li::before {
     font-weight: 500;
 }
 
+/*Table code from W3S*/
 table {
     border-collapse: collapse;
     width: 100%;
