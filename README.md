@@ -120,10 +120,10 @@ The live link can be found here -
     * All content was written by the developer
 
 * Imagery
-    * All images came from 
+    * All images came from google
 
 * Icons
-    * 
+    * All icons were sourced from fontawesome. They have been used on the home page to give a visually appealing connection to the headings.
     
 * Acknowledgements
     * My Mentor Rahul for advice when planning, and tips for area of improvement.
