@@ -85,6 +85,18 @@ View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanhar
 * About Image
     * Implementing a more dynamic image would allow for a better viewing experience on desktop pages.
 
+## User Stories
+* First Time Visit (User 1)
+    * This user viewed the website based on prior interest in the sport. This user is interested in the club as it is local and offers a wide range of trianing times. They lack experience, but use the contact page to ask any questions.
+
+    ![User-1](/assets/images/Screenshot%202024-01-10%20214043.png)
+
+* Returning Visit (User 1)
+    * Returns to the webite periodically. Is already practicing with the club, and can use the class times, so they are always up to date on when the club will be open for use.
+
+    ![User-1](/assets/images/Screenshot%202024-01-10%20214034.png)
+
+
 ## Testing
 
 * The website was viewed on a number of devices, and screen sizes. These include desktop, macbook, iphone 12, Ipad, and Samsung pixel 12.
