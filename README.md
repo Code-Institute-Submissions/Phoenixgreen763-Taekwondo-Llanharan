@@ -4,7 +4,7 @@
 
 Taekwondo Llanharan is a website focused on encouranging novices, or experts alike, to train and practice the korean martial art. The club is based out of Llanharan community center. The site engages users of all levels by providing substantial information about both the sport, and the club specifically. The users may find informative videos on the history of the martial art, or they can find it beneficial to view all class times available to them.
 
-View the live website here - 
+View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanharan/ 
 
 ![UX Mockup]
 
@@ -115,7 +115,7 @@ View the live website here -
     * Under "Source" ensure you select "main"
     * Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon to display and indicate the successful deployment.
 
-The live link can be found here -
+The live link can be found here - https://phoenixgreen763.github.io/Taekwondo-Llanharan/
 
 ## Technologies Used
 
