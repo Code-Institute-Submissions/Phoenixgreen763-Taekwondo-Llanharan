@@ -52,8 +52,18 @@ View the live website here -
 
 * Class Times 
     * This section includes a table to give all users up to date information. This includes the class days, times and ages of students for each. This gives the user flexibility and ease of use to plan their training.
-    * 
+    * This table gives the user precise information, about all classes. This allows all types of users to see when they will be able to attend classes, with ease.
+    * This section also adjusts to add margins, when viewed on other screen sizes. This is done to keep it inline with the other content, also seen on the page.
+    * Borders were added to the table to keep a good level of readability, even on smaller screen sizes.
 
 
 #### [Taekwondo Llanharan - Contact (Page 3)]
+
+* Form 
+    * On the contact page, the only content available is a form. This is done to avoid complications for the user. Keeping the page simple makes it easy for the user to navigate and fill out their information.
+    * The form is available so the user can fill out their information, and potentially send any queries they have to the club if desired.
+    * The form contains 4 fields, an input for you name, email, age, and also any queries.
+    * The input for the users name, and email is a requirement to submit the form.
+    * The input for the age is also required, but utilises a dropdown menu. This is used to specify particular age ranges.
+    * The querie section is not mandatory. This allows the user to leave it empty, in the case that they dont have a question at hand. This allows the club to follow up, and contact them, to discuss directly instead.
 
