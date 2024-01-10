@@ -1,4 +1,5 @@
 # Taekwondo Llanharan
+
 ## Summary
 
 Taekwondo Llanharan is a website focused on encouranging novices, or experts alike, to train and practice the korean martial art. The club is based out of Llanharan community center. The site engages users of all levels by providing substantial information about both the sport, and the club specifically. The users may find informative videos on the history of the martial art, or they can find it beneficial to view all class times available to them.
@@ -6,6 +7,7 @@ Taekwondo Llanharan is a website focused on encouranging novices, or experts ali
 View the live website here - 
 
 ## Features
+
 ### Existing Features
 
 #### [Taekwondo Llanharan - Home (Page 1)]
@@ -71,7 +73,8 @@ View the live website here -
 
 * Contact information within the footer
     * Having a contact inside the footer, allows for ease of access for users on all pages.
-* 
+* About Image
+    * Implementing a more dynamic image would allow for a better viewing experience on desktop pages.
 
 ## Testing
 
@@ -79,7 +82,13 @@ View the live website here -
 * This website has been viewed and also tested on Google Chrome, Safari, and Opera GX.
 * Family members were asked to test and navigate the website. This was to test user experience, and find potential bugs.
 
+## All Known Bugs
+
+* The home page embedded youtube video, does not currently maintain the same aspect ration, on all smaller screen sizes below 563px.
+* The cirlce images on the home page, have slightly excessive bottom margins, on certain screen sizes.
+
 ## Design
+
 * Colour Scheme
     * The colour scheme I selected was a combination of red, black, and white. This was done to represent the 3 most important colours throughout taekwondo, and maintain a visually appealing presentation.
 
@@ -87,6 +96,7 @@ View the live website here -
     * Google Fonts was imported into css to style text. The font "Oswald" was used and kept consistent throughout the entirety of the site.
 
 ## Deployment Of The Website
+
 * The website was deployed to GitHub. The steps to deploy are shown, as follows:
     * In the GitHub repository, navigate to the Settings tab
     * Scroll down to GitHub pages and click "Check it out here!"
@@ -96,10 +106,12 @@ View the live website here -
 The live link can be found here -
 
 ## Technologies Used
+
 * HTML5
 * CSS3
 
 ## Credits
+
 * Code
     * W3Schools for Flex & table templates
     * 
