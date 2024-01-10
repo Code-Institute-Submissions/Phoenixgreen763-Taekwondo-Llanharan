@@ -82,6 +82,16 @@ View the live website here -
 * This website has been viewed and also tested on Google Chrome, Safari, and Opera GX.
 * Family members were asked to test and navigate the website. This was to test user experience, and find potential bugs.
 
+## Validator Testing 
+
+* WS3 CSS Testing Validator
+    * CSS Results
+    ![CSS Validated Results] 
+* WS3 HTML Testing Validator
+    * [Home (page 1) Results]
+    * [About (page 2) Results]
+    * [Contact (page 2) Results] 
+
 ## All Known Bugs
 
 * The home page embedded youtube video, does not currently maintain the same aspect ration, on all smaller screen sizes below 563px.
