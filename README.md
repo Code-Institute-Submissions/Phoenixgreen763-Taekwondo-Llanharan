@@ -140,7 +140,7 @@ The live link can be found here - https://phoenixgreen763.github.io/Taekwondo-Ll
 ## Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 
 ## Credits
 
