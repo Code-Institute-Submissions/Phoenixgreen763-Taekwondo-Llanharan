@@ -6,7 +6,7 @@ Taekwondo Llanharan is a website focused on encouranging novices, or experts ali
 
 View the live website here - https://phoenixgreen763.github.io/Taekwondo-Llanharan/ 
 
-![UX Mockup] (assets\images\smartmockups_lr81ch5s.png)
+![UX Mockup](assets\images\smartmockups_lr81ch5s.png)
 
 ## Features
 
