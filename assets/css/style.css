@@ -543,10 +543,6 @@ footer .social-links .social-link {
     grid-auto-columns: 1fr;
 }
 
-.social-links .fa-solid.fa-circle.fa-stack-1x {
-    filter: var(--filter-drop-shadow);
-}
-
 .social-links .fa-solid.fa-circle.fa-stack-1x::before {
     border-radius: 50%;
 }
